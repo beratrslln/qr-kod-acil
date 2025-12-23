@@ -109,7 +109,7 @@ export default function App() {
                 <label className="text-xs font-medium text-slate-500 uppercase tracking-wider flex items-center gap-2">
                   <User className="w-3 h-3" /> Tam Adın
                 </label>
-                <input type="text" name="name" placeholder="Mehmet Can" onChange={handleChange} className="w-full bg-slate-800/40 border border-slate-700/50 rounded-xl px-4 py-3 outline-none focus:border-blue-500/50 transition-all"/>
+                <input type="text" name="name" placeholder="örnek : Berat Arslan" onChange={handleChange} className="w-full bg-slate-800/40 border border-slate-700/50 rounded-xl px-4 py-3 outline-none focus:border-blue-500/50 transition-all"/>
               </div>
               <div className="space-y-2">
                 <label className="text-xs font-medium text-slate-500 uppercase tracking-wider flex items-center gap-2">
